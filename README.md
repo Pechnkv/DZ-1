@@ -1,3 +1,3 @@
 # ProjectOne
 
-dev ветка
+* dev ветка
