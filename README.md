@@ -1,6 +1,7 @@
 # ProjectOne
 
 
-* master
+* master branch
 
 Главная ветка. 
+
