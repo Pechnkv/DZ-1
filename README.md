@@ -1,7 +1,3 @@
 # ProjectOne
 
-
-* master branch
-
-Главная ветка. 
-
+* dev ветка
