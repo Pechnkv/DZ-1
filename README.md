@@ -1,4 +1,1 @@
 # ProjectOne
-
-* Dev ветка
-
